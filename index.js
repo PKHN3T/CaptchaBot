@@ -161,4 +161,4 @@ channelverif.send(`Welcome to the server, <@${member.id}>!`, attachment).then(ms
 
 
 
-client.login('NjQ0NDg4NTM4NjI4MjkyNjI4.Xc0xHQ.Nk-CEMT1pOyaemo7kxKCjQh6m34')
+client.login(' ')
